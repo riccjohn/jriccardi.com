@@ -1,18 +1,19 @@
 import React from 'react';
+import Icon from '@material-ui/core/Icon';
 
 const Navigation = () => {
   return (
-    <nav class="desktop flex">
+    <nav className="desktop flex">
       <a href="#home">
-        <i class="material-icons">code</i>
+        <Icon fontSize="large">code</Icon>
       </a>
-      <a class="section" href="#about">
+      <a className="section" href="#about">
         About
       </a>
-      <a class="section" href="#work">
+      <a className="section" href="#work">
         Work
       </a>
-      <a class="section" href="#contact">
+      <a className="section" href="#contact">
         Contact
       </a>
     </nav>
