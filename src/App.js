@@ -1,5 +1,8 @@
 import React, { Component } from 'react';
 import Navigation from './Navigation';
+import About from './About';
+import Contact from './Contact';
+import Projects from './Projects';
 import './App.css';
 
 class App extends Component {
@@ -7,19 +10,9 @@ class App extends Component {
     return (
       <div className="App">
         <Navigation />
-        <header className="App-header">
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-        </header>
+        <About />
+        <Projects />
+        <Contact />
       </div>
     );
   }
