@@ -6,7 +6,7 @@ const Projects = () => {
       <h1 className="button">Projects</h1>
       <div className="content">
         <div className="section">
-          <div className="project" id="project01">
+          <div className="project">
             <div className="thumbnail" />
             <div className="description">
               <p>
@@ -16,7 +16,7 @@ const Projects = () => {
               </p>
             </div>
           </div>
-          <div className="project" id="project02">
+          <div className="project">
             <div className="thumbnail" />
             <div className="description">
               <p>
@@ -28,7 +28,7 @@ const Projects = () => {
           </div>
         </div>
         <div className="section">
-          <div className="project" id="project03">
+          <div className="project">
             <div className="thumbnail" />
             <div className="description">
               <p>
@@ -38,7 +38,7 @@ const Projects = () => {
               </p>
             </div>
           </div>
-          <div className="project" id="project04">
+          <div className="project">
             <div className="thumbnail" />
             <div className="description">
               <p>
