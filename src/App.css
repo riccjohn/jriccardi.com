@@ -5,30 +5,6 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
 .container {
   width: 100%;
   display: -webkit-box;
@@ -224,4 +200,9 @@ nav a:hover {
   line-height: 1.5rem;
   padding: 0.5rem;
   margin: 0px;
+}
+
+.project:nth-of-type(1) .thumbnail {
+  background-image: url('/Moon2970.jpg');
+  background-size: cover;
 }
