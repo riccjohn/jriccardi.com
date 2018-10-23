@@ -192,17 +192,34 @@ nav a:hover {
   border-radius: 5px 5px 0px 0px;
 }
 
+.project .description .title {
+  font-size: 1.1rem;
+  font-weight: 700;
+  display: block;
+}
+
 .project .description {
-  height: 25%;
   border-radius: 0px 0px 5px 5px;
   color: grey;
-  font-weight: 300;
-  line-height: 1.5rem;
-  padding: 0.5rem;
+  margin: 0px;
+  height: 25%;
+  display: flex;
+  padding-left: 1rem;
+  align-items: center;
+  box-shadow: 0px -2px 4px rgba(0, 0, 0, 0.15);
+}
+
+.project p {
+  font-size: .9rem;
   margin: 0px;
 }
 
-.project:nth-of-type(1) .thumbnail {
-  background-image: url('/Moon2970.jpg');
+#reactUi .thumbnail {
+  background-image: url('/React-Animate-UI.gif');
+  background-size: cover;
+}
+
+#hangry .thumbnail {
+  background-image: url('/Hangry.gif');
   background-size: cover;
 }
