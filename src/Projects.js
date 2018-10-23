@@ -5,14 +5,20 @@ const Projects = () => {
     <div id="work">
       <h1 className="button">Projects</h1>
       <div className="content">
-        <div className="section">
-          <div className="project">
+
+          <div id="reactUi" className="project">
             <div className="thumbnail" />
             <div className="description">
-              <p>
-                Project description goes here
-                {'\n'}
-                Cinema4D, After Effects, Photoshop &amp; Illustrator
+              <p><span className="title">React-UI-Animations</span>
+                React component library, Anime.js
+              </p>
+            </div>
+          </div>
+          <div id="hangry" className="project">
+            <div className="thumbnail" />
+            <div className="description">
+              <p><span className="title">Hangry</span>
+                React Native, Firebase, Foursquare API
               </p>
             </div>
           </div>
@@ -26,18 +32,6 @@ const Projects = () => {
               </p>
             </div>
           </div>
-        </div>
-        <div className="section">
-          <div className="project">
-            <div className="thumbnail" />
-            <div className="description">
-              <p>
-                Candy Loop
-                {'\n'}
-                Cinema4D, After Effects, &amp; Photoshop
-              </p>
-            </div>
-          </div>
           <div className="project">
             <div className="thumbnail" />
             <div className="description">
@@ -48,7 +42,7 @@ const Projects = () => {
               </p>
             </div>
           </div>
-        </div>
+
       </div>
     </div>
   );
