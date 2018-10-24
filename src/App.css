@@ -110,32 +110,6 @@ nav a:hover {
   text-transform: uppercase;
 }
 
-#contact {
-  height: 8rem;
-  width: 100%;
-  background-color: #242424;
-  color: #39f7d2;
-}
-
-#contact a img {
-  width: 1.75rem;
-}
-
-#contact .content {
-  margin: 0 auto;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  width: 55%;
-  height: 100%;
-  -webkit-box-pack: justify;
-  -ms-flex-pack: justify;
-  justify-content: space-between;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
-}
-
 #work {
   min-height: 40rem;
   width: 100%;
@@ -231,4 +205,34 @@ nav a:hover {
 #blockchain .thumbnail {
   background-image: url('/blockchain.png');
   background-size: cover;
+}
+
+#contact {
+  height: 8rem;
+  width: 100%;
+  background-color: #242424;
+  color: #39f7d2;
+}
+
+#contact a img {
+  width: 1.75rem;
+}
+
+#contact .content {
+  margin: 0 auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 55%;
+  height: 100%;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-around;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+#contact p {
+  font-size: .8rem;
 }
