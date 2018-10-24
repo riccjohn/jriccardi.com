@@ -5,7 +5,7 @@ const Projects = () => {
     <div id="work">
       <h1 className="button">Projects</h1>
       <div className="content">
-
+        <a href='https://github.com/riccjohn/react-ui-animations'>
           <div id="reactUi" className="project">
             <div className="thumbnail" />
             <div className="description">
@@ -14,6 +14,8 @@ const Projects = () => {
               </p>
             </div>
           </div>
+        </a>
+        <a href='https://github.com/Hangry-App/Hangry'>
           <div id="hangry" className="project">
             <div className="thumbnail" />
             <div className="description">
@@ -22,27 +24,17 @@ const Projects = () => {
               </p>
             </div>
           </div>
-          <div className="project">
+        </a>
+        <a href='https://medium.com/coinmonks/understanding-and-building-your-own-tiny-blockchain-in-javascript-a16f2137cfec'>
+          <div id="blockchain" className="project">
             <div className="thumbnail" />
             <div className="description">
-              <p>
-                Mare Tranquillitatis
-                {'\n'}
-                Cinema4D, After Effects, Photoshop &amp; Illustrator
+              <p><span className="title">JS Blockchain Article</span>
+                Medium article, node.js, javascript, blockchain
               </p>
             </div>
           </div>
-          <div className="project">
-            <div className="thumbnail" />
-            <div className="description">
-              <p>
-                Mini Machines
-                {'\n'}
-                Cinema4D &amp; Photoshop
-              </p>
-            </div>
-          </div>
-
+        </a>
       </div>
     </div>
   );
