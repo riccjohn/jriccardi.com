@@ -1,13 +1,13 @@
 {
-  "main.css": "/home/static/css/main.e258ba3f.chunk.css",
-  "main.js": "/home/static/js/main.dc746e64.chunk.js",
-  "main.js.map": "/home/static/js/main.dc746e64.chunk.js.map",
-  "static/js/1.d39ff2b4.chunk.js": "/home/static/js/1.d39ff2b4.chunk.js",
-  "static/js/1.d39ff2b4.chunk.js.map": "/home/static/js/1.d39ff2b4.chunk.js.map",
-  "runtime~main.js": "/home/static/js/runtime~main.e258ea17.js",
-  "runtime~main.js.map": "/home/static/js/runtime~main.e258ea17.js.map",
-  "static/css/main.e258ba3f.chunk.css.map": "/home/static/css/main.e258ba3f.chunk.css.map",
-  "index.html": "/home/index.html",
-  "precache-manifest.bf454eed4ff39032690ebe13b40dadcd.js": "/home/precache-manifest.bf454eed4ff39032690ebe13b40dadcd.js",
-  "service-worker.js": "/home/service-worker.js"
+  "main.css": "/jriccardi.com/static/css/main.e258ba3f.chunk.css",
+  "main.js": "/jriccardi.com/static/js/main.b6d10e22.chunk.js",
+  "main.js.map": "/jriccardi.com/static/js/main.b6d10e22.chunk.js.map",
+  "static/js/1.d39ff2b4.chunk.js": "/jriccardi.com/static/js/1.d39ff2b4.chunk.js",
+  "static/js/1.d39ff2b4.chunk.js.map": "/jriccardi.com/static/js/1.d39ff2b4.chunk.js.map",
+  "runtime~main.js": "/jriccardi.com/static/js/runtime~main.1fdb5c42.js",
+  "runtime~main.js.map": "/jriccardi.com/static/js/runtime~main.1fdb5c42.js.map",
+  "static/css/main.e258ba3f.chunk.css.map": "/jriccardi.com/static/css/main.e258ba3f.chunk.css.map",
+  "index.html": "/jriccardi.com/index.html",
+  "precache-manifest.0062cdc7e0da537d0e22ccd1f0bce03f.js": "/jriccardi.com/precache-manifest.0062cdc7e0da537d0e22ccd1f0bce03f.js",
+  "service-worker.js": "/jriccardi.com/service-worker.js"
 }
