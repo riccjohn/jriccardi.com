@@ -34,17 +34,6 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"/build/blockchain.png": {
-		"ft": 32768,
-		"iS": 760408,
-		"oA": 0,
-		"oAP": "/build/blockchain.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
 	"/build/dribbble-icon.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -91,14 +80,6 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
-		},
-	"/build/Hangry.gif": {
-		"ft": 4194304,
-		"iS": 7769630,
-		"oA": 0,
-		"oAP": "/build/Hangry.gif",
-		"oF": 0,
-		"opt": 0
 		},
 	"/build/Hangry.mp4": {
 		"cB": 0,
@@ -153,14 +134,6 @@
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
-		},
-	"/build/React-Animate-UI.gif": {
-		"ft": 4194304,
-		"iS": 4741010,
-		"oA": 0,
-		"oAP": "/build/React-Animate-UI.gif",
-		"oF": 0,
-		"opt": 0
 		},
 	"/build/React-Animate-UI.mp4": {
 		"cB": 0,
