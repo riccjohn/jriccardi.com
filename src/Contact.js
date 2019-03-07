@@ -12,7 +12,7 @@ const Contact = () => {
           title="Github"
           id="github"
         >
-          <img src="/github-icon.svg" alt="github" />
+          <img src="/img/github-icon.svg" alt="github" />
         </a>
         <p>Made with <span>♥</span> in Madison, WI</p>
         <a
@@ -22,7 +22,7 @@ const Contact = () => {
           title="Email"
           id="email"
         >
-          <img src="/email-icon.svg" alt="email" />
+          <img src="/img/email-icon.svg" alt="email" />
         </a>
       </div>
     </div>
