@@ -68,7 +68,7 @@ nav a:hover {
   position: relative;
   background-color: #242424;
   color: #39f7d2;
-  background-image: url('/header.jpg');
+  background-image: url('/img/header.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -193,22 +193,22 @@ nav a:hover {
 }
 
 #reactUi .thumbnail {
-  background-image: url('/React-Animate-UI.gif');
+  background-image: url('/img/React-Animate-UI.gif');
   background-size: cover;
 }
 
 #hangry .thumbnail {
-  background-image: url('/Hangry.gif');
+  background-image: url('/img/Hangry.gif');
   background-size: cover;
 }
 
 #blockchain .thumbnail {
-  background-image: url('/blockchain.png');
+  background-image: url('/img/blockchain.png');
   background-size: cover;
 }
 
 #knave .thumbnail {
-  background-image: url('/Knave.png');
+  background-image: url('/img/Knave.png');
   background-size: cover;
 }
 
