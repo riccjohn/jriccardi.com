@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.3815f358.chunk.css",
-  "main.js": "/static/js/main.a6f799c6.chunk.js",
-  "main.js.map": "/static/js/main.a6f799c6.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.c5541365.js",
-  "runtime~main.js.map": "/static/js/runtime~main.c5541365.js.map",
-  "static/js/2.51fd3a78.chunk.js": "/static/js/2.51fd3a78.chunk.js",
-  "static/js/2.51fd3a78.chunk.js.map": "/static/js/2.51fd3a78.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.c69aa96c7292d35395f32f19cde91845.js": "/precache-manifest.c69aa96c7292d35395f32f19cde91845.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.3815f358.chunk.css.map": "/static/css/main.3815f358.chunk.css.map"
+  "main.css": "jriccardi.com/static/css/main.3815f358.chunk.css",
+  "main.js": "jriccardi.com/static/js/main.15f4194e.chunk.js",
+  "main.js.map": "jriccardi.com/static/js/main.15f4194e.chunk.js.map",
+  "runtime~main.js": "jriccardi.com/static/js/runtime~main.9ba6ac91.js",
+  "runtime~main.js.map": "jriccardi.com/static/js/runtime~main.9ba6ac91.js.map",
+  "static/js/2.51fd3a78.chunk.js": "jriccardi.com/static/js/2.51fd3a78.chunk.js",
+  "static/js/2.51fd3a78.chunk.js.map": "jriccardi.com/static/js/2.51fd3a78.chunk.js.map",
+  "index.html": "jriccardi.com/index.html",
+  "precache-manifest.63bbf551258ff7c963a54286528e9264.js": "jriccardi.com/precache-manifest.63bbf551258ff7c963a54286528e9264.js",
+  "service-worker.js": "jriccardi.com/service-worker.js",
+  "static/css/main.3815f358.chunk.css.map": "jriccardi.com/static/css/main.3815f358.chunk.css.map"
 }
