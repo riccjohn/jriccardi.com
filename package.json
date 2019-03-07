@@ -2,7 +2,7 @@
   "name": "jriccardi.com",
   "version": "0.1.0",
   "private": true,
-  "homepage": "jriccardi.com",
+  "homepage": "www.jriccardi.com",
   "dependencies": {
     "@material-ui/core": "^3.3.0",
     "ajv": "^6.5.4",
