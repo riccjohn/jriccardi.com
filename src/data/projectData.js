@@ -27,7 +27,7 @@ export const codeProjects = [
     "id" : "knave",
     "title" : "Knave Character Generator",
     "linkUrl": "https://riccjohn.github.io/Knave-Character-Generator/",
-    "imgUrl" : "/img/Knave-iPad.png",
+    "imgUrl" : "/img/Knave_Mockup.png",
     "imgAlt" : "Knave app screenshot",
     "description" : "Random chracter generator for a tabletop RPG built using React.js"
   }
