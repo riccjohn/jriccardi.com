@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "jriccardi.com/precache-manifest.63bbf551258ff7c963a54286528e9264.js"
+  "www.jriccardi.com/precache-manifest.83dcc97f3749dd0794c70683b63c578a.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("jriccardi.com/index.html", {
+workbox.routing.registerNavigationRoute("www.jriccardi.com/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
