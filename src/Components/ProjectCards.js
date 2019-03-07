@@ -1,6 +1,6 @@
 import React from 'react';
 import SingleProject from './SingleProject';
-import { codeProjects } from './projectData';
+import { codeProjects } from '../data/projectData';
 
 const ProjectCards = props => {
   return (

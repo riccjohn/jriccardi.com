@@ -1,8 +1,5 @@
 import React, { Component } from 'react';
-import Navigation from './Navigation';
-import About from './About';
-import Contact from './Contact';
-import ProjectCards from './ProjectCards';
+import { Navigation, About, Contact, ProjectCards } from './Components/'
 import './App.css';
 
 class App extends Component {
